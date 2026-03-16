@@ -43,7 +43,7 @@ If you want to add related templates to your template, copy the `slug` from the 
 
 ### The pre-commit hook
 
-We use [Husky](https://typicode.github.io/husky/#/) to manage the pre-commit [Git hook](https://git-scm.com/docs/githooks) in this repo. Husky configures hooks automatically during install, so you don't need to do anything special to get them working, but if it fails to install, you can run the following command to install it manually:
+We use [Husky](https://ziavai777.github.io/husky/#/) to manage the pre-commit [Git hook](https://git-scm.com/docs/githooks) in this repo. Husky configures hooks automatically during install, so you don't need to do anything special to get them working, but if it fails to install, you can run the following command to install it manually:
 
 ```bash
 pnpm run prepare
